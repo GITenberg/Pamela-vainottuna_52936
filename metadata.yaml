@@ -1,0 +1,41 @@
+_repo: Pamela-vainottuna_52936
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hameen-Anttila, Vaino
+    - Hämeen-Anttila, V.
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+creator:
+  author:
+    agent_name: Richardson, Samuel
+    birthdate: 1689
+    deathdate: 1761
+    gutenberg_agent_id: '1959'
+    url: http://www.gutenberg.org/2009/agents/1959
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Richardson
+description: ''
+gutenberg_issued: '2016-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52936'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Virtue -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Kidnapping victims -- Fiction'
+- !lcsh 'Women household employees -- Fiction'
+- GITenberg
+title: Pamela vainottuna
+url: http://www.gutenberg.org/ebooks/52936
